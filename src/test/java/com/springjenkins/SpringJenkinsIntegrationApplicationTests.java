@@ -14,11 +14,8 @@ class SpringJenkinsIntegrationApplicationTests {
 
 	@Test
 	void contextLoads() {
-	   logger.info("Test Cases executing");
-	   logger.info("Test Cases executing second time");
-	   logger.info("Test cases executing third time");
-	   logger.info("Test cases executing fourth time");
-	   logger.info("Test cases executing fifth time");
+	   logger.info("Hi, Test Cases executing");
+	   
 	   assertEquals(true, true);
 	}
 
