@@ -18,6 +18,7 @@ class SpringJenkinsIntegrationApplicationTests {
 	   logger.info("Test Cases executing second time");
 	   logger.info("Test cases executing third time");
 	   logger.info("Test cases executing fourth time");
+	   logger.info("Test cases executing fifth time");
 	   assertEquals(true, true);
 	}
 
