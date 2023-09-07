@@ -15,6 +15,7 @@ class JenkinsSpringBootApplicationTests {
 	@Test
 	void contextLoads() {
 		loggers.info("test cases executings");
+		loggers.info("test cases executings second log statement");
 		assertEquals(true, true);
 	}
 
